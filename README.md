@@ -1,2 +1,2 @@
-# fokker_planck_visulization_julia
-Visualization of FokkerPlanck with Julia
+# Visualization of FokkerPlanck with Julia  
+To run this notebook you will need Julia, Jupyter notebook, IJulia and the packages specified in the notebook.
